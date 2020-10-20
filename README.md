@@ -4,7 +4,7 @@ I'm a Computer Scientist and currently pursuing a master's degree in Informatics
 
 I have experience and love to work in teaching programming, machine learning, data science and agile development :computer:.
 
-Currently my master research focuses on discrimination in machine learning :bookmark_tabs:.
+My master research currently focuses on discrimination in machine learning :bookmark_tabs:.
 
 ### Contact me :mailbox_with_mail:  
 ---
