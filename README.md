@@ -12,4 +12,6 @@ My master research currently focuses on discrimination in machine learning :book
 
 [ResearchGate](https://www.researchgate.net/profile/Luiz_De_Lima2)
 
+[Lattes](http://lattes.cnpq.br/8727341617324704)
+
 [Email](mailto:luizfernando@ppgi.ci.ufpb.br)
