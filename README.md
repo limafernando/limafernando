@@ -1,12 +1,12 @@
 ### Hey you :wave: 
 ---
-I'm a Computer Scientist and currently pursuing a master's degree in Informatics :mortar_board:.
+I'm a Computer Scientist and currently pursuing a PhD's degree in Informatics :mortar_board:.
 
-I'm also working as a Data Scientist in research and innovation projects at CESAR 🧡.
+I'm also working as a Informatics Professor at the Federal Institute of Sergipe.
 
 I have experience and love to work in teaching programming, machine learning, data science and agile development :computer:.
 
-My master research currently focuses on discrimination in machine learning :bookmark_tabs:.
+My PhD research currently focuses on mitigating discrimination in machine learning :bookmark_tabs:.
 
 ### Contact me :mailbox_with_mail:  
 ---
@@ -15,5 +15,3 @@ My master research currently focuses on discrimination in machine learning :book
 [ResearchGate](https://www.researchgate.net/profile/Luiz_De_Lima2)
 
 [Lattes](http://lattes.cnpq.br/8727341617324704)
-
-[Email](mailto:luizfernando@ppgi.ci.ufpb.br)
