@@ -2,7 +2,7 @@
 ---
 I'm a Computer Scientist and currently pursuing a PhD's degree in Informatics :mortar_board:.
 
-I'm also working as a Informatics Professor at the Federal Institute of Sergipe.
+I'm also working as a Informatics Professor at the Federal Institute of Pernambuco.
 
 I have experience and love to work in teaching programming, machine learning, data science and agile development :computer:.
 
